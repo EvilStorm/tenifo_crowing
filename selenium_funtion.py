@@ -62,7 +62,6 @@ class SeleniumFuntions:
     def hasElement(self, waitTarget: str):
         try:
             elements = self._driver.find_elements(By.XPATH, waitTarget)
-            print(f" 소스: {self._driver.title}")
             return len(elements) > 0
         except Exception as e:
             print(e)

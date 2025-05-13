@@ -19,6 +19,7 @@ from selenium.common.exceptions import (
     UnexpectedAlertPresentException
 )
 from chrome_driver import ChromeDriver
+import requests
 
 class ReservationNaver:
     _driver = None
@@ -28,10 +29,11 @@ class ReservationNaver:
         chrome = ChromeDriver()
         self._driver = chrome.getDriver()
         self._funtions = SeleniumFuntions(self._driver)
+        
     
     def run(self):
         try:
-            self._driver.get("https://map.naver.com/p/entry/place/1838346489?c=15.00,0,0,0,dh")
+            self._driver.get("https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4/place/1346583444?c=12.38,0,0,0,dh")
             
             self._funtions.moveInIFrame('//*[@id="entryIframe"]')
             time.sleep(4)
@@ -47,10 +49,16 @@ class ReservationNaver:
             cortReservationInfos = self.iteratorCort()
 
             placeInfo["cortReservationInfos"] = cortReservationInfos
+            
+            self.postInfos(placeInfo)
 
             print(placeInfo)
         except Exception as e:
             print(e)
+
+    def postInfos(self, infos):
+        response = requests.post("http://localhost:3001/court", json=infos)
+        print(response.json())
 
     def getPlaceInfo(self):
         place = self._driver.find_element(By.XPATH, '//*[@id="_title"]/div/span[1]')
@@ -59,10 +67,10 @@ class ReservationNaver:
 
     def iteratorCort(self):
         try:
-            li_elements = self._driver.find_elements(By.CSS_SELECTOR, '.place_section_content li')
+            li_elements = self._driver.find_elements(By.CSS_SELECTOR, '.place_section_content > ul > li')
             reservationInfos = []
             for idx, li in enumerate(li_elements):
-                li_elements = self._driver.find_elements(By.CSS_SELECTOR, '.place_section_content li')
+                li_elements = self._driver.find_elements(By.CSS_SELECTOR, '.place_section_content > ul > li')
                 print(f"{idx}. 항목 내용:", li_elements[idx].text)
                 li_elements[idx].find_element(By.TAG_NAME, "a").click()
                 time.sleep(2)

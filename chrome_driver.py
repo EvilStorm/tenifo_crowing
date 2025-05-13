@@ -20,13 +20,17 @@ class ChromeDriver:
             options.add_argument('--headless')  # 브라우저 안 보이게 실행할 경우
         
         options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--disable-dev-shm-usage')
         # options.add_argument('--disable-blink-features=AutomationControlled')
         # options.add_argument('--disable-popup-blocking')
         # options.add_argument('--disable-extensions')
 
+        prefs = {"profile.managed_default_content_settings.images": 2}
+        options.add_experimental_option("prefs", prefs)
+
         self._driver = webdriver.Chrome(service=Service(self._CHROMEDRIVER_PATH), options=options)
-    
+        self._driver.set_window_size(1780, 1320)
+
     def getDriver(self):
         return self._driver
 
