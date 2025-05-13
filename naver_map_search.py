@@ -261,6 +261,10 @@ class NaverMapSearch:
                 items = self._driver.find_elements(By.CSS_SELECTOR, '#_pcmap_list_scroll_container > ul > li') 
                 item = items[index]
                 
+                if len(items) == 0:
+                    loop = False
+                    break
+                
                 self._driver.execute_script("arguments[0].scrollIntoView();", item)
 
                 link = item.find_element(By.CLASS_NAME, 'place_bluelink') 

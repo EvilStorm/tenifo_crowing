@@ -1793,5 +1793,550 @@
         "place": "솔터체육공원 테니스장",
         "reservation": false,
         "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1039817729?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "모두의 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1360271766?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp%2526from%253DPLACE_AD%2526n_ad_group_type%253D10%2526n_query%253D%2525ED%252585%25258C%2525EB%25258B%252588%2525EC%25258A%2525A4%2525EC%25259E%2525A5"
+    },
+    {
+        "place": "하하테니스 파주운정점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1566709905?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp%2526from%253DPLACE_AD%2526n_ad_group_type%253D10%2526n_query%253D%2525ED%252585%25258C%2525EB%25258B%252588%2525EC%25258A%2525A4%2525EC%25259E%2525A5"
+    },
+    {
+        "place": "테니스라이프 운정본점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1658427254?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "와이원테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1245379875?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "제이테니스아레나",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1926070099?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "왓어샷테니스장 일산",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1028030984?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "위너실내테니스 운정덕이점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1305630623?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "컷실내테니스장 야당점",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1505969056?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "제이앤제이 테니스 아카데미",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1447039952?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "위시티 실내테니스장 김범석 테니스 코칭스쿨",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1242464447?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "일산 테니스킹",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1667615779?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "금촌체육공원",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19302278?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "더테니스존 일산점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1005380872?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백호스포츠 스크린테니스연습장 테니스레슨 스트링수리",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1027740095?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "왓어샷테니스장 파주",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1332963637?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "고고테니스스쿨 파주운정점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1074014842?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "테니스써밋 파주점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1131336116?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "테니스팩토리&테니스팟 파주운정점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1641783209?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "고고테니스스쿨 일산점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1200497905?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "리얼테니스 실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1187168640?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "컷실내테니스 대화점",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1576330576?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "에스엠실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1127423718?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "현테니스아카데미",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1362528276?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp%2526from%253DPLACE_AD%2526n_ad_group_type%253D10%2526n_query%253D%2525ED%252585%25258C%2525EB%25258B%252588%2525EC%25258A%2525A4%2525EC%25259E%2525A5"
+    },
+    {
+        "place": "모두의 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1360271766?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "제이엘실내테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/151554759?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "어스테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1640600316?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "설문Y&S테니스파크",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1502890077?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "바모스테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1665250569?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "레인보우 실내테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1896922913?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "제이앤제이테니스아카데미2호점",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1103622350?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "윔블던 실내테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1862215019?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "현테니스아카데미",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1362528276?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "하하테니스 파주운정점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1566709905?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "노란공 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1455517668?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "박지호 실내테니스아카데미",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1224524758?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "파주스타디움테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19303902?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "가온B 테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1112365454?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "박금희테니스스쿨",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1099357588?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "운정체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1134631168?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "월롱체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1599248852?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "선셋테니스클럽",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1496885726?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "일산직업능력개발원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19057464?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "후곡마을11단지주공아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1774098477?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "중산마을코오롱2단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1268162284?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "중산마을두산1단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1208113900?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "NH투자증권NH인재원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19054331?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "엘크루 가람마을5단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1337072520?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "초원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19304031?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "경기파주경찰서테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/21362691?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "고양스포츠타운성저테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/36287994?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "금촌체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/31078593?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "중산체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19046947?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "운정건강공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/36030215?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "운정체육공원 테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1151415095?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "한울마을2단지운정벽산블루밍아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1565717310?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "지영체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1319314424?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "하이파크시티일산파밀리에2단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1324174162?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "일산동양타운아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1870645140?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "KB국민은행 일산연수원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19046758?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "동문굿모닝힐3단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1176190790?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "가람마을동문굿모닝힐8단지아파트테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1020488879?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "코트와이드 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1258229539?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp%2526from%253DPLACE_AD%2526n_ad_group_type%253D10%2526n_query%253D%2525ED%252585%25258C%2525EB%25258B%252588%2525EC%25258A%2525A4%2525EC%25259E%2525A5"
+    },
+    {
+        "place": "코트와이드 세컨 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1259042969?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "매직실내테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1011538004?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "코트와이드 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1258229539?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "덕정드림실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1198431773?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "의정부종합운동장테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/20123054?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "모두의테니스클럽",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1163898797?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "박테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1050197775?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "의정부시청테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19231064?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "양주시청테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/21362693?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "의정부세무서테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19232652?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "금바위테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19306735?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백석생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/33152823?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "만장산체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/32549155?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백석배수지생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19535693?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "광적생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/31078309?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "경민대학교테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19238074?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "신산리공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/18308127?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "고덕생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/18301139?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백석생활체육공원",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/33152816?c=11.84,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "코트와이드 테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1258229539?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "문산 실내테니스 스쿨",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1786485565?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "모두의테니스클럽",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1163898797?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "금바위테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19306735?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "통일공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19305730?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "통일공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1094251419?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "두원공과대학교파주캠퍼스테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1035981749?c=12.30,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "공존테니스파크 양주점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1945530374?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "팬텀 테니스존",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1266505288?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "원테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1936059091?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "옥정배수지 체육공원",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/37450454?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "블루팩토리테니스 양주점",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1757316371?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "덕정드림실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1198431773?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "JM실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1187859917?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "온테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1346047311?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "주주테니스 아카데미",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1923472359?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "옥정중앙역중흥S클래스센텀시티3블록테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1119429863?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "옥정중앙역중흥S클래스센텀시티1블록테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1503322787?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "남면테니스클럽",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/20129482?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "동두천시종합운동장테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/18988154?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백석생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/33152823?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "소흘생활체육공원테니스장A구장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1982117864?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "광적생활체육공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/31078309?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "시민근린공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/21382926?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "소흘생활체육공원테니스장B구장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1698363537?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "신산리공원테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/18308127?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "백석생활체육공원",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/33152816?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "케이브리조트",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1392634466?c=12.36,0,0,0,dh&placePath=%3Fentry%253Dbmp"
     }
 ]
