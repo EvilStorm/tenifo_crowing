@@ -1663,5 +1663,135 @@
         "place": "글래드테니스",
         "reservation": false,
         "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4/place/1693405829?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "메이저테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1953700776?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp%2526from%253DPLACE_AD%2526n_ad_group_type%253D10%2526n_query%253D%2525ED%252585%25258C%2525EB%25258B%252588%2525EC%25258A%2525A4%2525EC%25259E%2525A5"
+    },
+    {
+        "place": "스플릿테니스 김포구래점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1042616170?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "테니스아레나",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1403746568?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "컷실내테니스장 김포구래점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1211270473?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "24시 에이스실내테니스장",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1258744844?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "가연스포츠",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1587214275?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "왓어샷테니스장 김포",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1673528034?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "에이스 실내 테니스장_통진점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1045167189?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "JK테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1731030848?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "김포 365 실내테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1853177874?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "강화군실내테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1125631833?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "솔터체육공원실내테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1877617835?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "조은테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1267555952?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "프로원테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1264951756?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "메이저테니스",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1953700776?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "뽀송이 테니스장 대관&레슨&바베큐",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1801583305?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "테니스팩토리 김포대곶본점",
+        "reservation": true,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1751686162?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "글래드테니스",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1693405829?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "고인돌클럽",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/16638105?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "강화테니스클럽",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/16638023?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "동성테니스클럽",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1096388469?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "양곡테니스클럽",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/19100967?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "솔터체육공원 테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1978883106?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "솔터체육공원 테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1440286464?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "통진레코파크테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1023646818?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+    },
+    {
+        "place": "솔터체육공원 테니스장",
+        "reservation": false,
+        "url": "https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1039817729?c=12.27,0,0,0,dh&placePath=%3Fentry%253Dbmp"
     }
 ]

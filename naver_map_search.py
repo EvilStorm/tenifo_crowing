@@ -27,14 +27,7 @@ class NaverMapSearch:
     _driver = None
     _funtions = None
 
-    MAX_HORIZONTAL = 24
-    MAX_VERTICAL = 40
-
-    _horizontal = 0
-    _vertical = 0
-
-    _isFirstLoop = True
-
+    _loadedUrlIndex = -1
     _startUrl = [
         'https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1731030848?c=12.27,0,0,0,dh',
         'https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1332963637?c=12.27,0,0,0,dh',
@@ -100,7 +93,7 @@ class NaverMapSearch:
     def run(self):
         try:
 
-            self._driver.get("https://map.naver.com/p?c=13.00,0,0,0,dh")
+            self._driver.get("https://map.naver.com/p/search/%ED%85%8C%EB%8B%88%EC%8A%A4%EC%9E%A5/place/1731030848?c=12.27,0,0,0,dh")
             time.sleep(3)
 
             self._map_element = WebDriverWait(self._driver, 10).until(
@@ -110,21 +103,19 @@ class NaverMapSearch:
             map_zoom = self._driver.find_element(By.XPATH, '//*[@id="app-layout"]/div[2]/div[1]/div[3]/div[2]/div/div[1]/div/div/input')  
             self._driver.execute_script("arguments[0].value = '50';", map_zoom)
 
-            input_search_element = self._driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div[1]/div/div[1]/div/div/div/input') 
-            input_search_element.send_keys('테니스장')
+            # input_search_element = self._driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div[1]/div/div[1]/div/div/div/input') 
+            # input_search_element.send_keys('테니스장')
 
             window_size = self._driver.get_window_size()
             viewport_width = window_size['width'] - (63+360)
             print(f'size: {viewport_width}')
             safe_offset = int(viewport_width * 0.7)
 
-            self.moveFirstPosition()
-            self.doProcessing()
 
             self._processing = True
             while self._processing:
-                self.moveNextMap()
-                time.sleep(2)
+                self.loadPage()
+                time.sleep(3)   
                 self.doProcessing()
             
 
@@ -135,11 +126,13 @@ class NaverMapSearch:
             print(e)
 
 
-    def moveFirstPosition(self):
-        for i in range(7):
-            self.moveMap(640, 510)
-        for i in range(3):
-            self.moveMap(0, 100)
+    def loadPage(self):
+        self._loadedUrlIndex = self._loadedUrlIndex + 1 
+        if(len(self._startUrl) == self._loadedUrlIndex):
+            self._processing = False
+            return 
+        
+        self._driver.get(self._startUrl[self._loadedUrlIndex])
 
     def doProcessingTest(self):
         #테니스 검색            
